@@ -76,8 +76,3 @@ Contributions are welcome! If you have ideas for improvements or new features, p
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this GitHub README template according to your project's details and style. Make sure to replace placeholders like `link_to_your_video_thumbnail.png` and `link_to_your_full_demo_video` with actual links. Happy coding and contributing!
