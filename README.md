@@ -1,6 +1,10 @@
 # Automated Testing using C# and Selenium
 
-![Project Demo](https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/30e31bca-c2a8-4377-8080-afd3c9a066fe) <!-- Replace with an actual image link from your video -->
+![Project Demo](
+
+https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/90fa791c-fb41-4411-bb26-56bc684d3d10
+
+) <!-- Replace with an actual image link from your video -->
 
 
 
@@ -34,7 +38,7 @@ To run the program, you need the following:
 
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/your-username/automated-testing-csharp-selenium.git
+   git clone https://github.com/Ajitesh72/CloudQA-selenium/tree/main
    ```
 2. Navigate to the project directory:
    ```bash
@@ -51,7 +55,7 @@ To run the program, you need the following:
 
 ## Demo Video
 
-Check out the [demo video](https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/30e31bca-c2a8-4377-8080-afd3c9a066fe) to see the program in action:
+Check out the [demo video](https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/90fa791c-fb41-4411-bb26-56bc684d3d10) to see the program in action:
 
 
 ## Future Improvements
