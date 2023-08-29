@@ -2,7 +2,8 @@
 
 <h1>Project Demo</h1>
 
-https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/90fa791c-fb41-4411-bb26-56bc684d3d10
+![image](https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/ed37ad0b-60a5-4aa2-a76e-f494fa7a6416)
+![image](https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/e8ba7f91-f254-4d74-9848-574209280880)
 
  <!-- Replace with an actual image link from your video -->
 
@@ -18,7 +19,6 @@ This repository contains a C# program that uses the Selenium framework to automa
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo Video](#demo-video)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -52,10 +52,6 @@ To run the program, you need the following:
 2. Modify the paths and configurations if necessary.
 3. Build and run the program.
 4. The program will navigate to the CloudQA Automation Practice Form and automate the testing of specific fields.
-
-## Demo Video
-
-Check out the [demo video](https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/90fa791c-fb41-4411-bb26-56bc684d3d10) to see the program in action:
 
 
 ## Future Improvements
