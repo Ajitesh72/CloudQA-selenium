@@ -1,0 +1,139 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CloudQA-selenium/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.11.0",
+          "WebDriver.ChromeDriver": "26.0.1383.1",
+          "WebDriverManager": "1.0.0"
+        },
+        "runtime": {
+          "CloudQA-selenium.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.4.9": {
+        "runtime": {
+          "lib/Net45/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.4.9.0",
+            "fileVersion": "1.4.9.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "NLog/4.3.4": {
+        "runtime": {
+          "lib/net45/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.3.2551.0"
+          }
+        }
+      },
+      "NLog.Config/4.3.4": {
+        "dependencies": {
+          "NLog": "4.3.4",
+          "NLog.Schema": "4.3.4"
+        }
+      },
+      "NLog.Schema/4.3.4": {},
+      "Selenium.WebDriver/4.11.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "WebDriver.ChromeDriver/26.0.1383.1": {},
+      "WebDriverManager/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.4.9",
+          "NLog.Config": "4.3.4"
+        },
+        "runtime": {
+          "lib/net452/WebDriverManager.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudQA-selenium/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.4.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-anZIsi7bbHZ35ZZzvCA+gVWC/mEXVhcJjJvxr3wzUEDsOE4uk0Fa0ZiaxVn83AZpVKVO4RHyqamPkzzJbMUgmQ==",
+      "path": "htmlagilitypack/1.4.9",
+      "hashPath": "htmlagilitypack.1.4.9.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "NLog/4.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QfJ+axNkAtih7gcE2/ca/r93PCZ+DUmSXSJ2AMF7wbwdRH2CQM0IYOafvHOaKP63T+Bp3k7vxYe/4w1ZKOwrbw==",
+      "path": "nlog/4.3.4",
+      "hashPath": "nlog.4.3.4.nupkg.sha512"
+    },
+    "NLog.Config/4.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KrrSY6r6zfwW3kdQarbEdulMmNSLuPguPhQ/A6lgtDI+iKMotLHp6sYgYo1q7c/vEeL9zbLfXZHZSOJ7jYR1gg==",
+      "path": "nlog.config/4.3.4",
+      "hashPath": "nlog.config.4.3.4.nupkg.sha512"
+    },
+    "NLog.Schema/4.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xTRRRVnxj6FZfGLEIgZtx3LowWmkzk9aZmEctOAIJwypLAZ5Zu/fpUL7i/TPERtzF990rnk6iMn+r3SWoRUb7A==",
+      "path": "nlog.schema/4.3.4",
+      "hashPath": "nlog.schema.4.3.4.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V8o+Nvi9/3Ix12ZzMGg+fI7sfu+HrflZkMGq8Orr+j0INbfpEEyM6KR9oaaHlm0WUXcn7dTYwyWrJxYsi6eniw==",
+      "path": "selenium.webdriver/4.11.0",
+      "hashPath": "selenium.webdriver.4.11.0.nupkg.sha512"
+    },
+    "WebDriver.ChromeDriver/26.0.1383.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-laOKhp1ubzA+FQh/zfubIxk3KujLOeLR31pMyB/AEe5r1FLkeOf+r5+jjKhpnPBHY8dKvbTMlDe3EeXJby1kUg==",
+      "path": "webdriver.chromedriver/26.0.1383.1",
+      "hashPath": "webdriver.chromedriver.26.0.1383.1.nupkg.sha512"
+    },
+    "WebDriverManager/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eMMk4irirRys1ZEpS9C/7h+ps1H5ueBiLYJDS/sbZlZ2NegLDj/LExoi0qTtG9+cBh6pQCWqD0OEm9x8Q3mLEg==",
+      "path": "webdrivermanager/1.0.0",
+      "hashPath": "webdrivermanager.1.0.0.nupkg.sha512"
+    }
+  }
+}
