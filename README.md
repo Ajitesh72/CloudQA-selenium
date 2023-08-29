@@ -1,6 +1,10 @@
 # Automated Testing using C# and Selenium
 
-![Project Demo](link_to_your_video_thumbnail.png) <!-- Replace with an actual image link from your video -->
+![Project Demo](https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/30e31bca-c2a8-4377-8080-afd3c9a066fe) <!-- Replace with an actual image link from your video -->
+
+
+
+
 
 This repository contains a C# program that uses the Selenium framework to automate the testing of specific fields on a web page. The program interacts with the [CloudQA Automation Practice Form](https://app.cloudqa.io/home/AutomationPracticeForm) to demonstrate automated testing principles.
 
@@ -34,7 +38,8 @@ To run the program, you need the following:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd automated-testing-csharp-selenium
+   dotnet build
+   dotnet run
    ```
 
 ## Usage
@@ -46,9 +51,8 @@ To run the program, you need the following:
 
 ## Demo Video
 
-Check out the [demo video](link_to_your_full_demo_video) to see the program in action:
+Check out the [demo video](https://github.com/Ajitesh72/CloudQA-selenium/assets/95878363/30e31bca-c2a8-4377-8080-afd3c9a066fe) to see the program in action:
 
-[![Demo Video](link_to_your_video_thumbnail.png)](link_to_your_full_demo_video)
 
 ## Future Improvements
 
